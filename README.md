@@ -53,20 +53,20 @@
 
 <div align="left">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=samy721&theme=synthwave" alt="samy721" width="45%" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samy721&theme=synthwave" alt="samy721" width="45%" />
-    
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=samy721&theme=synthwave" alt="samy721" width="49%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samy721&theme=synthwave" alt="samy721" width="49%" />
   </p>
-  <div align="center">
-   <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs?username=samy721&theme=synthwave" alt="samy721" />
-</div>
+
 </div>
  
  
 <div align="center">
 <a href="https://github.com/samy721/github-readme-activity-graph"><img alt="samy721's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=samy721&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </div>
- 
+  
+<div align="center">
+   <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=samy721&theme=synthwave" alt="samy721" />
+</div>
 
 </body>
 </html>
