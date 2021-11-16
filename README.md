@@ -53,8 +53,8 @@
 
 <div align="left">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=samy721&theme=synthwave" alt="samy721" width="48%" />
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samy721&theme=synthwave" alt="samy721" width="48%" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=samy721&theme=synthwave" alt="samy721" width="47%" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=samy721&theme=synthwave" alt="samy721" width="47%" />
   </p>
 
 </div>
